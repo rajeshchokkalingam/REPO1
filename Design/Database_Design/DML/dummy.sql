@@ -54,3 +54,5 @@ insert into users(address,
 	locality,
 	cstate) values('second cross street',now(),'test3@parack.com','Ramesh','Sakthivel','Male','99XXXXXXX9',
 	'password','chennai','india','USA','tamilnadu');
+	
+	commit;
